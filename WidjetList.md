@@ -1,0 +1,86 @@
+Les catégories de widget sont :
+
+- Accessibilité
+    - Exclusion Sémantique
+    - Fusion Sémantique
+    - Sémantique
+- Animation et mouvement
+    - Alignement animé
+    - Constructeur animé
+    - Conteneur Animé
+- Éléments, images et icônes
+    - Icône
+    - Image
+    - Image brute
+    - Paquet d'actif
+
+- Asynchrone
+    - FutureBuilder
+    - StreamBuilder
+- Saisie
+    - Saisie automatique
+    - Form
+    - Champ de formulaire
+    - Clavier écouteur
+- Modèles d'interaction
+    - Absorb Pointer
+    - Dismissible
+    - DragTarget
+    - Draggable
+    - DraggableScrollableSheet
+    - GestureDetector
+    - IgnorePointer
+    - InteractiveViewer
+    - LongPressDraggable
+    - Scrollable
+- Disposition
+    - Align
+    - AspectRatio
+    - Baseline
+    - Center
+    - ConstrainedBox
+    - Container
+    - CustomSingleChildLayout
+    - Expanded
+    - FittedBox
+    - FractionallySizedBox
+    - IntrinsicHeight
+    - IntrinsicWidth
+    - LimitedBox
+    - Offstage
+    - OverflowBox
+    - Padding
+    - SizedBox
+    - SizedOverflowBox
+    - Transform
+- Peinture et effets
+    - BackdropFilter
+    - ClipOval
+    - ClipPath
+    - ClipRect
+    - CustomPaint
+    - DecoratedBox
+    - FractionalTranslation
+    - RotatedBox
+    - Transform
+    - Opacity
+- Défilement
+    - SingleChildScrollView
+    - Scrollbar
+    - Scrollable
+    - ScrollConfiguration
+    - ReorderableListView
+    - RefreshIndicator
+    - PageView
+    - NotificationListener
+    - NestedScrollView
+    - ListView
+    - DraggableScrollableSheet
+    - CustomScrollView
+- Texte
+    - DefaultTextStyle
+    - RichText
+    - Text
+- Style
+    - MediaQuery
+    - Theme
